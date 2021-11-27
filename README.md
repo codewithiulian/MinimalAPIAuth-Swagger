@@ -1,0 +1,1 @@
+# MinimalAPIAuth-Swagger
